@@ -111,7 +111,7 @@ contract Lottery {
 5. **Interact**:  
    - Use the deployed contract interface in Remix to call the functions.  
 
----
+
 
 ## 📊 Future Enhancements  
 
@@ -119,13 +119,13 @@ contract Lottery {
 - Enhanced random number generator for better security.  
 - Integration with a frontend for improved usability.  
 
----
+
 
 ## 🎉 Acknowledgments  
 
 Special thanks to **Code Eater** for providing excellent tutorials on Solidity and blockchain development. 🙌  
 
----
+
 
 ### 🌐 Connect  
 
